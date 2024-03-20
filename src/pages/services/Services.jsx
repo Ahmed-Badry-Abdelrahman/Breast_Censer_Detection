@@ -9,7 +9,7 @@ function Services() {
     <div>
       <Header />
       <Hero2 title="Our Services" image="/src/assets/Medical-Services1.png" />
-      <ServiceCard2 image="/src/assets/SAppointment.png" title="Up Rumors" description="Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys." btnText="Up Rumors" link="/Up Rumors" />
+      <ServiceCard2 image="/public/SAppointment.png" title="Up Rumors" description="Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys." btnText="Up Rumors" link="/Up Rumors" />
       <ServiceCard2 image="/src/assets/s2.png" title="Our Doctor" description="Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys." btnText="Find a doctor" link="/find-a-doctor" />
       <ServiceCard2 image="/src/assets/s1.png" title="Appointments" description="Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys.Explore the experiences of other individuals facing similar journeys." btnText="Appointments" link="/PatientVisitor" />
       <Footer />
