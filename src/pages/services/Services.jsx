@@ -3,6 +3,7 @@ import Header from '../../components/Header'
 import Hero2 from "../../components/Hero2";
 import ServiceCard2 from '../../components/ServiceCard2';
 import Footer from '../../components/Footer';
+// @ts-ignore
 import SAppointment from '/src/assets/SAppointment.png'
 import './services.css';
 function Services() {
